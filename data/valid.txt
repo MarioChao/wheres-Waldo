@@ -1,0 +1,6 @@
+data/waldo/3.jpg
+data/waldo/9.jpg
+data/waldo/14.jpg
+data/waldo/17.jpg
+data/waldo/23.jpg
+data/waldo/27.jpg
