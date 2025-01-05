@@ -23,8 +23,6 @@ data/waldo/28.jpg
 data/waldo/29.jpg
 data/waldo/30.jpg
 data/waldo/31.jpg
-data/waldo/32.jpg
 data/waldo/33.jpg
 data/waldo/34.jpg
 data/waldo/35.jpg
-data/waldo/36.jpg

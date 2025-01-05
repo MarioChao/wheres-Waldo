@@ -4,3 +4,5 @@ data/waldo/14.jpg
 data/waldo/17.jpg
 data/waldo/23.jpg
 data/waldo/27.jpg
+data/waldo/32.jpg
+data/waldo/36.jpg
