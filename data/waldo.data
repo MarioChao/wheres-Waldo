@@ -1,5 +1,5 @@
 classes = 1
-train  = data/train.txt
+train  = data/full.txt
 valid  = data/valid.txt
 names = data/waldo.names
 backup = backup/
